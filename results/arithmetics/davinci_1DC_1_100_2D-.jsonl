@@ -1,0 +1,100 @@
+{"question": "What is 6 - (6 * 0)?", "answer": 6, "prompt": "Q: What is 69 minus 35?\nA: 34\n\nQ: What is 6 - (6 * 0)?\nA: ", "response": "\n\n6 - (6 * 0) ="}
+{"question": "What is 7 - (6 - 4)?", "answer": 5, "prompt": "Q: What is 56 minus 17?\nA: 39\n\nQ: What is 7 - (6 - 4)?\nA: ", "response": "\n\n3"}
+{"question": "What is 9 + (3 - 8)?", "answer": 4, "prompt": "Q: What is 30 minus 50?\nA: -20\n\nQ: What is 9 + (3 - 8)?\nA: ", "response": "\n\n9 + (-5) = 4"}
+{"question": "What is 2 - (1 * 9)?", "answer": -7, "prompt": "Q: What is 1 minus 97?\nA: -96\n\nQ: What is 2 - (1 * 9)?\nA: ", "response": "\n\n2 - (1 * 9) ="}
+{"question": "What is 9 + (2 * 4)?", "answer": 17, "prompt": "Q: What is 78 minus 30?\nA: 48\n\nQ: What is 9 + (2 * 4)?\nA: ", "response": "\n\nUse the distributive property to simplify the"}
+{"question": "What is 1 * (5 + 7)?", "answer": 12, "prompt": "Q: What is 63 minus 72?\nA: -9\n\nQ: What is 1 * (5 + 7)?\nA: ", "response": "\n\n35"}
+{"question": "What is 5 * (6 * 5)?", "answer": 150, "prompt": "Q: What is 25 minus 65?\nA: -40\n\nQ: What is 5 * (6 * 5)?\nA: ", "response": "\n\n300"}
+{"question": "What is 3 - (8 * 7)?", "answer": -53, "prompt": "Q: What is 41 minus 8?\nA: 33\n\nQ: What is 3 - (8 * 7)?\nA: ", "response": "\n\n3 - (56) = -49"}
+{"question": "What is 4 + (0 + 8)?", "answer": 12, "prompt": "Q: What is 48 minus 81?\nA: -33\n\nQ: What is 4 + (0 + 8)?\nA: ", "response": "\n\n12"}
+{"question": "What is 6 - (0 - 9)?", "answer": 15, "prompt": "Q: What is 70 minus 95?\nA: -25\n\nQ: What is 6 - (0 - 9)?\nA: ", "response": "\n\n6 - (-9) = 15"}
+{"question": "What is 3 + (5 * 1)?", "answer": 8, "prompt": "Q: What is 51 minus 71?\nA: -20\n\nQ: What is 3 + (5 * 1)?\nA: ", "response": "\n\n3 + (5 * 1) is"}
+{"question": "What is 3 * (3 - 2)?", "answer": 3, "prompt": "Q: What is 4 minus 74?\nA: -70\n\nQ: What is 3 * (3 - 2)?\nA: ", "response": "\n\n3 * (3 - 2) ="}
+{"question": "What is 1 * (1 - 5)?", "answer": -4, "prompt": "Q: What is 96 minus 86?\nA: 10\n\nQ: What is 1 * (1 - 5)?\nA: ", "response": "\n\n1 * (1 - 5) ="}
+{"question": "What is 1 - (4 * 8)?", "answer": -31, "prompt": "Q: What is 48 minus 43?\nA: 5\n\nQ: What is 1 - (4 * 8)?\nA: ", "response": "\n\n1 - (4 * 8) ="}
+{"question": "What is 1 * (8 + 5)?", "answer": 13, "prompt": "Q: What is 25 minus 27?\nA: -2\n\nQ: What is 1 * (8 + 5)?\nA: ", "response": "\n\n1 * (8 + 5) ="}
+{"question": "What is 9 - (8 - 9)?", "answer": 10, "prompt": "Q: What is 49 minus 21?\nA: 28\n\nQ: What is 9 - (8 - 9)?\nA: ", "response": "\n\n-2"}
+{"question": "What is 1 - (9 * 6)?", "answer": -53, "prompt": "Q: What is 77 minus 62?\nA: 15\n\nQ: What is 1 - (9 * 6)?\nA: ", "response": "\n\n1 - 54 = -53"}
+{"question": "What is 3 + (4 + 2)?", "answer": 9, "prompt": "Q: What is 85 minus 17?\nA: 68\n\nQ: What is 3 + (4 + 2)?\nA: ", "response": "\n\n11"}
+{"question": "What is 0 - (9 + 4)?", "answer": -13, "prompt": "Q: What is 66 minus 17?\nA: 49\n\nQ: What is 0 - (9 + 4)?\nA: ", "response": "\n\n-13"}
+{"question": "What is 1 + (2 + 2)?", "answer": 5, "prompt": "Q: What is 93 minus 29?\nA: 64\n\nQ: What is 1 + (2 + 2)?\nA: ", "response": "\n\n6"}
+{"question": "What is 8 - (6 * 8)?", "answer": -40, "prompt": "Q: What is 29 minus 17?\nA: 12\n\nQ: What is 8 - (6 * 8)?\nA: ", "response": "\n8 - (6 * 8) = 8"}
+{"question": "What is 3 - (3 * 9)?", "answer": -24, "prompt": "Q: What is 41 minus 8?\nA: 33\n\nQ: What is 3 - (3 * 9)?\nA: ", "response": "\n\n-6"}
+{"question": "What is 4 * (7 * 7)?", "answer": 196, "prompt": "Q: What is 4 minus 61?\nA: -57\n\nQ: What is 4 * (7 * 7)?\nA: ", "response": "\n\n4 * 49 = 196"}
+{"question": "What is 5 * (1 + 5)?", "answer": 30, "prompt": "Q: What is 32 minus 25?\nA: 7\n\nQ: What is 5 * (1 + 5)?\nA: ", "response": "\n\n25"}
+{"question": "What is 7 + (9 + 5)?", "answer": 21, "prompt": "Q: What is 88 minus 18?\nA: 70\n\nQ: What is 7 + (9 + 5)?\nA: ", "response": "\n\n21"}
+{"question": "What is 0 * (4 + 1)?", "answer": 0, "prompt": "Q: What is 88 minus 3?\nA: 85\n\nQ: What is 0 * (4 + 1)?\nA: ", "response": "\n\n4"}
+{"question": "What is 5 - (2 + 5)?", "answer": -2, "prompt": "Q: What is 13 minus 35?\nA: -22\n\nQ: What is 5 - (2 + 5)?\nA: ", "response": "\n\n3"}
+{"question": "What is 1 + (2 * 3)?", "answer": 7, "prompt": "Q: What is 90 minus 50?\nA: 40\n\nQ: What is 1 + (2 * 3)?\nA: ", "response": "\n\n10"}
+{"question": "What is 8 + (9 + 1)?", "answer": 18, "prompt": "Q: What is 19 minus 52?\nA: -33\n\nQ: What is 8 + (9 + 1)?\nA: ", "response": "\n\n18"}
+{"question": "What is 3 + (9 - 9)?", "answer": 3, "prompt": "Q: What is 53 minus 48?\nA: 5\n\nQ: What is 3 + (9 - 9)?\nA: ", "response": "\n\n3 + 0 = 3"}
+{"question": "What is 1 + (5 * 1)?", "answer": 6, "prompt": "Q: What is 46 minus 20?\nA: 26\n\nQ: What is 1 + (5 * 1)?\nA: ", "response": "\n\n7"}
+{"question": "What is 0 * (3 + 2)?", "answer": 0, "prompt": "Q: What is 18 minus 56?\nA: -38\n\nQ: What is 0 * (3 + 2)?\nA: ", "response": "\n\n0 * (3 + 2) ="}
+{"question": "What is 7 * (3 + 0)?", "answer": 21, "prompt": "Q: What is 40 minus 40?\nA: 0\n\nQ: What is 7 * (3 + 0)?\nA: ", "response": "\n\n21"}
+{"question": "What is 8 + (6 - 9)?", "answer": 5, "prompt": "Q: What is 48 minus 90?\nA: -42\n\nQ: What is 8 + (6 - 9)?\nA: ", "response": "\n\n3"}
+{"question": "What is 1 * (3 - 1)?", "answer": 2, "prompt": "Q: What is 5 minus 78?\nA: -73\n\nQ: What is 1 * (3 - 1)?\nA: ", "response": "\n\n2"}
+{"question": "What is 5 + (6 * 2)?", "answer": 17, "prompt": "Q: What is 2 minus 43?\nA: -41\n\nQ: What is 5 + (6 * 2)?\nA: ", "response": "\n\n18"}
+{"question": "What is 7 + (0 * 9)?", "answer": 7, "prompt": "Q: What is 40 minus 50?\nA: -10\n\nQ: What is 7 + (0 * 9)?\nA: ", "response": "\n\n7 + (0 * 9) is"}
+{"question": "What is 6 - (3 * 4)?", "answer": -6, "prompt": "Q: What is 67 minus 20?\nA: 47\n\nQ: What is 6 - (3 * 4)?\nA: ", "response": "\n\n6 - (3 * 4) ="}
+{"question": "What is 7 * (9 * 2)?", "answer": 126, "prompt": "Q: What is 14 minus 55?\nA: -41\n\nQ: What is 7 * (9 * 2)?\nA: ", "response": "\n\n14 * 18 = 252"}
+{"question": "What is 3 + (0 - 2)?", "answer": 1, "prompt": "Q: What is 44 minus 44?\nA: 0\n\nQ: What is 3 + (0 - 2)?\nA: ", "response": "\n\n1"}
+{"question": "What is 8 * (4 - 1)?", "answer": 24, "prompt": "Q: What is 6 minus 79?\nA: -73\n\nQ: What is 8 * (4 - 1)?\nA: ", "response": "\n\n8 * (4 - 1) ="}
+{"question": "What is 2 * (0 - 7)?", "answer": -14, "prompt": "Q: What is 75 minus 79?\nA: -4\n\nQ: What is 2 * (0 - 7)?\nA: ", "response": "\n\n-14"}
+{"question": "What is 9 * (8 - 4)?", "answer": 36, "prompt": "Q: What is 59 minus 65?\nA: -6\n\nQ: What is 9 * (8 - 4)?\nA: ", "response": "\n\n24"}
+{"question": "What is 6 * (4 * 2)?", "answer": 48, "prompt": "Q: What is 20 minus 74?\nA: -54\n\nQ: What is 6 * (4 * 2)?\nA: ", "response": "\n\n24"}
+{"question": "What is 0 - (7 * 1)?", "answer": -7, "prompt": "Q: What is 89 minus 86?\nA: 3\n\nQ: What is 0 - (7 * 1)?\nA: ", "response": "\n\n0 - 7 = -7"}
+{"question": "What is 0 + (8 + 4)?", "answer": 12, "prompt": "Q: What is 1 minus 81?\nA: -80\n\nQ: What is 0 + (8 + 4)?\nA: ", "response": "\n\n12"}
+{"question": "What is 7 - (5 * 9)?", "answer": -38, "prompt": "Q: What is 11 minus 77?\nA: -66\n\nQ: What is 7 - (5 * 9)?\nA: ", "response": "\n\n7 - (5 * 9) ="}
+{"question": "What is 5 + (9 * 9)?", "answer": 86, "prompt": "Q: What is 72 minus 17?\nA: 55\n\nQ: What is 5 + (9 * 9)?\nA: ", "response": "\n\n5 + (9 * 9) ="}
+{"question": "What is 4 * (6 + 6)?", "answer": 48, "prompt": "Q: What is 77 minus 96?\nA: -19\n\nQ: What is 4 * (6 + 6)?\nA: ", "response": "\n\n4 * (6 + 6) ="}
+{"question": "What is 0 * (9 - 3)?", "answer": 0, "prompt": "Q: What is 80 minus 55?\nA: 25\n\nQ: What is 0 * (9 - 3)?\nA: ", "response": "\n\n9 - 3 = 6 \n0"}
+{"question": "What is 2 * (3 - 3)?", "answer": 0, "prompt": "Q: What is 94 minus 18?\nA: 76\n\nQ: What is 2 * (3 - 3)?\nA: ", "response": "\n\n2 * (3 - 3) ="}
+{"question": "What is 6 + (9 - 6)?", "answer": 9, "prompt": "Q: What is 36 minus 6?\nA: 30\n\nQ: What is 6 + (9 - 6)?\nA: ", "response": "\n\n9"}
+{"question": "What is 9 + (6 - 0)?", "answer": 15, "prompt": "Q: What is 90 minus 95?\nA: -5\n\nQ: What is 9 + (6 - 0)?\nA: ", "response": "\n\n9 + 6 = 15 \n15"}
+{"question": "What is 1 - (4 * 2)?", "answer": -7, "prompt": "Q: What is 60 minus 10?\nA: 50\n\nQ: What is 1 - (4 * 2)?\nA: ", "response": "\n\n1 - (4 * 2) ="}
+{"question": "What is 7 + (8 + 9)?", "answer": 24, "prompt": "Q: What is 2 minus 62?\nA: -60\n\nQ: What is 7 + (8 + 9)?\nA: ", "response": "\n\n24"}
+{"question": "What is 7 - (5 + 4)?", "answer": -2, "prompt": "Q: What is 20 minus 97?\nA: -77\n\nQ: What is 7 - (5 + 4)?\nA: ", "response": "\n\n7 - (5 + 4) ="}
+{"question": "What is 6 * (3 + 8)?", "answer": 66, "prompt": "Q: What is 85 minus 72?\nA: 13\n\nQ: What is 6 * (3 + 8)?\nA: ", "response": "\n\n36"}
+{"question": "What is 2 * (0 - 6)?", "answer": -12, "prompt": "Q: What is 67 minus 6?\nA: 61\n\nQ: What is 2 * (0 - 6)?\nA: ", "response": "\n\n-12"}
+{"question": "What is 5 + (0 * 3)?", "answer": 5, "prompt": "Q: What is 43 minus 94?\nA: -51\n\nQ: What is 5 + (0 * 3)?\nA: ", "response": "\n\n5 + (0 * 3) ="}
+{"question": "What is 0 + (8 + 9)?", "answer": 17, "prompt": "Q: What is 84 minus 86?\nA: -2\n\nQ: What is 0 + (8 + 9)?\nA: ", "response": "\n\n18"}
+{"question": "What is 1 - (9 - 3)?", "answer": -5, "prompt": "Q: What is 46 minus 7?\nA: 39\n\nQ: What is 1 - (9 - 3)?\nA: ", "response": "\n\n1 - (-6) = 7"}
+{"question": "What is 2 - (1 * 7)?", "answer": -5, "prompt": "Q: What is 2 minus 92?\nA: -90\n\nQ: What is 2 - (1 * 7)?\nA: ", "response": "\n\n2 - (1 * 7) ="}
+{"question": "What is 1 - (0 + 4)?", "answer": -3, "prompt": "Q: What is 14 minus 46?\nA: -32\n\nQ: What is 1 - (0 + 4)?\nA: ", "response": "\n\n1 - 4 = -3"}
+{"question": "What is 4 * (2 * 8)?", "answer": 64, "prompt": "Q: What is 19 minus 66?\nA: -47\n\nQ: What is 4 * (2 * 8)?\nA: ", "response": "\n\n32"}
+{"question": "What is 5 - (1 + 2)?", "answer": 2, "prompt": "Q: What is 16 minus 30?\nA: -14\n\nQ: What is 5 - (1 + 2)?\nA: ", "response": "\n\n3"}
+{"question": "What is 0 * (0 - 3)?", "answer": 0, "prompt": "Q: What is 23 minus 66?\nA: -43\n\nQ: What is 0 * (0 - 3)?\nA: ", "response": "\n\n0 * (0 - 3) ="}
+{"question": "What is 8 * (5 + 5)?", "answer": 80, "prompt": "Q: What is 59 minus 65?\nA: -6\n\nQ: What is 8 * (5 + 5)?\nA: ", "response": "\n\n40"}
+{"question": "What is 9 * (7 - 7)?", "answer": 0, "prompt": "Q: What is 73 minus 86?\nA: -13\n\nQ: What is 9 * (7 - 7)?\nA: ", "response": "\n\n3"}
+{"question": "What is 5 + (8 - 2)?", "answer": 11, "prompt": "Q: What is 71 minus 53?\nA: 18\n\nQ: What is 5 + (8 - 2)?\nA: ", "response": "\n\n13"}
+{"question": "What is 9 + (4 + 0)?", "answer": 13, "prompt": "Q: What is 83 minus 10?\nA: 73\n\nQ: What is 9 + (4 + 0)?\nA: ", "response": "\n\n13"}
+{"question": "What is 4 - (5 * 5)?", "answer": -21, "prompt": "Q: What is 16 minus 18?\nA: -2\n\nQ: What is 4 - (5 * 5)?\nA: ", "response": "\n\n-20"}
+{"question": "What is 1 + (5 + 9)?", "answer": 15, "prompt": "Q: What is 86 minus 53?\nA: 33\n\nQ: What is 1 + (5 + 9)?\nA: ", "response": "\n\n15"}
+{"question": "What is 4 * (2 - 2)?", "answer": 0, "prompt": "Q: What is 28 minus 58?\nA: -30\n\nQ: What is 4 * (2 - 2)?\nA: ", "response": "\n\n4 * (2 - 2) ="}
+{"question": "What is 5 + (6 - 8)?", "answer": 3, "prompt": "Q: What is 45 minus 62?\nA: -17\n\nQ: What is 5 + (6 - 8)?\nA: ", "response": "\n\n3"}
+{"question": "What is 1 + (7 - 3)?", "answer": 5, "prompt": "Q: What is 29 minus 99?\nA: -70\n\nQ: What is 1 + (7 - 3)?\nA: ", "response": "\n\n4"}
+{"question": "What is 2 - (8 - 1)?", "answer": -5, "prompt": "Q: What is 16 minus 76?\nA: -60\n\nQ: What is 2 - (8 - 1)?\nA: ", "response": "\n\n2 - (8 - 1) ="}
+{"question": "What is 5 + (4 + 6)?", "answer": 15, "prompt": "Q: What is 9 minus 36?\nA: -27\n\nQ: What is 5 + (4 + 6)?\nA: ", "response": "\n\n19"}
+{"question": "What is 8 - (7 - 7)?", "answer": 8, "prompt": "Q: What is 34 minus 85?\nA: -51\n\nQ: What is 8 - (7 - 7)?\nA: ", "response": "\n\n8 - (7 - 7) ="}
+{"question": "What is 1 * (7 - 1)?", "answer": 6, "prompt": "Q: What is 57 minus 3?\nA: 54\n\nQ: What is 1 * (7 - 1)?\nA: ", "response": "\n\n1 * (7-1) ="}
+{"question": "What is 6 - (0 * 4)?", "answer": 6, "prompt": "Q: What is 94 minus 68?\nA: 26\n\nQ: What is 6 - (0 * 4)?\nA: ", "response": "\n\n6 - (0 * 4) ="}
+{"question": "What is 2 - (2 * 9)?", "answer": -16, "prompt": "Q: What is 35 minus 57?\nA: -22\n\nQ: What is 2 - (2 * 9)?\nA: ", "response": "\n\n2 - (2 * 9) ="}
+{"question": "What is 1 + (1 * 1)?", "answer": 2, "prompt": "Q: What is 84 minus 0?\nA: 84\n\nQ: What is 1 + (1 * 1)?\nA: ", "response": "\n\n2"}
+{"question": "What is 3 + (0 + 6)?", "answer": 9, "prompt": "Q: What is 93 minus 63?\nA: 30\n\nQ: What is 3 + (0 + 6)?\nA: ", "response": "\n\n9"}
+{"question": "What is 6 - (8 - 8)?", "answer": 6, "prompt": "Q: What is 91 minus 51?\nA: 40\n\nQ: What is 6 - (8 - 8)?\nA: ", "response": "\n\n6 - (8 - 8) ="}
+{"question": "What is 7 - (9 + 3)?", "answer": -5, "prompt": "Q: What is 15 minus 45?\nA: -30\n\nQ: What is 7 - (9 + 3)?\nA: ", "response": "\n\n-11"}
+{"question": "What is 5 * (3 + 4)?", "answer": 35, "prompt": "Q: What is 13 minus 79?\nA: -66\n\nQ: What is 5 * (3 + 4)?\nA: ", "response": "\n\n5 * (3 + 4) ="}
+{"question": "What is 6 + (3 + 5)?", "answer": 14, "prompt": "Q: What is 55 minus 31?\nA: 24\n\nQ: What is 6 + (3 + 5)?\nA: ", "response": "\n\n14"}
+{"question": "What is 0 * (8 + 7)?", "answer": 0, "prompt": "Q: What is 21 minus 57?\nA: -36\n\nQ: What is 0 * (8 + 7)?\nA: ", "response": "\n\n0 * (8 + 7) ="}
+{"question": "What is 1 - (7 + 6)?", "answer": -12, "prompt": "Q: What is 14 minus 74?\nA: -60\n\nQ: What is 1 - (7 + 6)?\nA: ", "response": "\n1 - (13) = -12"}
+{"question": "What is 0 + (3 + 9)?", "answer": 12, "prompt": "Q: What is 99 minus 19?\nA: 80\n\nQ: What is 0 + (3 + 9)?\nA: ", "response": "\n\n12"}
+{"question": "What is 3 - (7 * 6)?", "answer": -39, "prompt": "Q: What is 10 minus 72?\nA: -62\n\nQ: What is 3 - (7 * 6)?\nA: ", "response": "\n\n9 - 42 = -33"}
+{"question": "What is 2 - (1 + 9)?", "answer": -8, "prompt": "Q: What is 41 minus 31?\nA: 10\n\nQ: What is 2 - (1 + 9)?\nA: ", "response": "\n\n2 - 10 = -8"}
+{"question": "What is 9 * (6 - 6)?", "answer": 0, "prompt": "Q: What is 32 minus 58?\nA: -26\n\nQ: What is 9 * (6 - 6)?\nA: ", "response": "\n\n9 * (6 - 6) ="}
+{"question": "What is 5 * (7 * 7)?", "answer": 245, "prompt": "Q: What is 39 minus 30?\nA: 9\n\nQ: What is 5 * (7 * 7)?\nA: ", "response": "\n\n5 * (7 * 7) equals"}
+{"question": "What is 3 + (8 + 9)?", "answer": 20, "prompt": "Q: What is 31 minus 1?\nA: 30\n\nQ: What is 3 + (8 + 9)?\nA: ", "response": "\n\n20"}
+{"question": "What is 5 + (5 * 5)?", "answer": 30, "prompt": "Q: What is 79 minus 16?\nA: 63\n\nQ: What is 5 + (5 * 5)?\nA: ", "response": "\n\n25"}
+{"question": "What is 2 + (4 - 9)?", "answer": -3, "prompt": "Q: What is 89 minus 39?\nA: 50\n\nQ: What is 2 + (4 - 9)?\nA: ", "response": "\n\n2 + (-5) = 2 -"}
+{"question": "What is 9 + (4 + 7)?", "answer": 20, "prompt": "Q: What is 56 minus 86?\nA: -30\n\nQ: What is 9 + (4 + 7)?\nA: ", "response": "\n\n21"}
+{"question": "What is 8 + (0 + 1)?", "answer": 9, "prompt": "Q: What is 95 minus 63?\nA: 32\n\nQ: What is 8 + (0 + 1)?\nA: ", "response": "\n\n9"}
+{"question": "What is 0 - (4 - 0)?", "answer": -4, "prompt": "Q: What is 51 minus 75?\nA: -24\n\nQ: What is 0 - (4 - 0)?\nA: ", "response": "\n\n-4"}

@@ -1,0 +1,100 @@
+{"question": "What is 6 - (6 * 0)?", "answer": 6, "prompt": "Q: What is 60680 minus 42484?\nA: 18196\n\nQ: What is 6 - (6 * 0)?\nA: ", "response": "\n\n-6"}
+{"question": "What is 7 - (6 - 4)?", "answer": 5, "prompt": "Q: What is 59889 minus 9023?\nA: 50866\n\nQ: What is 7 - (6 - 4)?\nA: ", "response": "\n\n1"}
+{"question": "What is 9 + (3 - 8)?", "answer": 4, "prompt": "Q: What is 35296 minus 9984?\nA: 25312\n\nQ: What is 9 + (3 - 8)?\nA: ", "response": "\n\n-5"}
+{"question": "What is 2 - (1 * 9)?", "answer": -7, "prompt": "Q: What is 50325 minus 25796?\nA: 24529\n\nQ: What is 2 - (1 * 9)?\nA: ", "response": "\n\n-8"}
+{"question": "What is 9 + (2 * 4)?", "answer": 17, "prompt": "Q: What is 67869 minus 82693?\nA: -14824\n\nQ: What is 9 + (2 * 4)?\nA: ", "response": "\n\n14"}
+{"question": "What is 1 * (5 + 7)?", "answer": 12, "prompt": "Q: What is 11753 minus 95183?\nA: -83430\n\nQ: What is 1 * (5 + 7)?\nA: ", "response": "\n\n1 * (5 + 7) ="}
+{"question": "What is 5 * (6 * 5)?", "answer": 150, "prompt": "Q: What is 33222 minus 40992?\nA: -7770\n\nQ: What is 5 * (6 * 5)?\nA: ", "response": "\n\n5 * (6 * 5) ="}
+{"question": "What is 3 - (8 * 7)?", "answer": -53, "prompt": "Q: What is 46238 minus 53888?\nA: -7650\n\nQ: What is 3 - (8 * 7)?\nA: ", "response": "\n\n3 - (8 * 7) ="}
+{"question": "What is 4 + (0 + 8)?", "answer": 12, "prompt": "Q: What is 90514 minus 85646?\nA: 4868\n\nQ: What is 4 + (0 + 8)?\nA: ", "response": "\n\n12"}
+{"question": "What is 6 - (0 - 9)?", "answer": 15, "prompt": "Q: What is 66002 minus 14747?\nA: 51255\n\nQ: What is 6 - (0 - 9)?\nA: ", "response": "\n\n-3"}
+{"question": "What is 3 + (5 * 1)?", "answer": 8, "prompt": "Q: What is 35672 minus 46219?\nA: -10547\n\nQ: What is 3 + (5 * 1)?\nA: ", "response": "\n\n13"}
+{"question": "What is 3 * (3 - 2)?", "answer": 3, "prompt": "Q: What is 94021 minus 98927?\nA: -4906\n\nQ: What is 3 * (3 - 2)?\nA: ", "response": "\n\n6"}
+{"question": "What is 1 * (1 - 5)?", "answer": -4, "prompt": "Q: What is 74610 minus 19915?\nA: 54695\n\nQ: What is 1 * (1 - 5)?\nA: ", "response": "\n\n1 * (1 - 5) ="}
+{"question": "What is 1 - (4 * 8)?", "answer": -31, "prompt": "Q: What is 84429 minus 60118?\nA: 24311\n\nQ: What is 1 - (4 * 8)?\nA: ", "response": "\n\n1 - (4 * 8) ="}
+{"question": "What is 1 * (8 + 5)?", "answer": 13, "prompt": "Q: What is 45849 minus 507?\nA: 45342\n\nQ: What is 1 * (8 + 5)?\nA: ", "response": "\n\n18"}
+{"question": "What is 9 - (8 - 9)?", "answer": 10, "prompt": "Q: What is 46915 minus 79329?\nA: -32414\n\nQ: What is 9 - (8 - 9)?\nA: ", "response": "\n\n2"}
+{"question": "What is 1 - (9 * 6)?", "answer": -53, "prompt": "Q: What is 76390 minus 45490?\nA: 30900\n\nQ: What is 1 - (9 * 6)?\nA: ", "response": "\n\n1 - (9 * 6) ="}
+{"question": "What is 3 + (4 + 2)?", "answer": 9, "prompt": "Q: What is 91366 minus 50510?\nA: 40856\n\nQ: What is 3 + (4 + 2)?\nA: ", "response": "\n\n9"}
+{"question": "What is 0 - (9 + 4)?", "answer": -13, "prompt": "Q: What is 26966 minus 89259?\nA: -62293\n\nQ: What is 0 - (9 + 4)?\nA: ", "response": "\n\n-13"}
+{"question": "What is 1 + (2 + 2)?", "answer": 5, "prompt": "Q: What is 75806 minus 98443?\nA: -22637\n\nQ: What is 1 + (2 + 2)?\nA: ", "response": "\n\n5"}
+{"question": "What is 8 - (6 * 8)?", "answer": -40, "prompt": "Q: What is 12622 minus 16169?\nA: -3547\n\nQ: What is 8 - (6 * 8)?\nA: ", "response": "\n\n8 - (6 * 8) ="}
+{"question": "What is 3 - (3 * 9)?", "answer": -24, "prompt": "Q: What is 18384 minus 78297?\nA: -59913\n\nQ: What is 3 - (3 * 9)?\nA: ", "response": "\n\n-6"}
+{"question": "What is 4 * (7 * 7)?", "answer": 196, "prompt": "Q: What is 45131 minus 51120?\nA: -5989\n\nQ: What is 4 * (7 * 7)?\nA: ", "response": "\n\n4 * (7 * 7) is"}
+{"question": "What is 5 * (1 + 5)?", "answer": 30, "prompt": "Q: What is 20359 minus 86655?\nA: -66296\n\nQ: What is 5 * (1 + 5)?\nA: ", "response": "\n\n25"}
+{"question": "What is 7 + (9 + 5)?", "answer": 21, "prompt": "Q: What is 84592 minus 8131?\nA: 76461\n\nQ: What is 7 + (9 + 5)?\nA: ", "response": "\n\n7 + (9 + 5) ="}
+{"question": "What is 0 * (4 + 1)?", "answer": 0, "prompt": "Q: What is 81443 minus 85730?\nA: -4287\n\nQ: What is 0 * (4 + 1)?\nA: ", "response": "\n\n0"}
+{"question": "What is 5 - (2 + 5)?", "answer": -2, "prompt": "Q: What is 1943 minus 18152?\nA: -16209\n\nQ: What is 5 - (2 + 5)?\nA: ", "response": "\n\n3"}
+{"question": "What is 1 + (2 * 3)?", "answer": 7, "prompt": "Q: What is 43340 minus 97962?\nA: -54622\n\nQ: What is 1 + (2 * 3)?\nA: ", "response": "\n\n7"}
+{"question": "What is 8 + (9 + 1)?", "answer": 18, "prompt": "Q: What is 65444 minus 29975?\nA: 35469\n\nQ: What is 8 + (9 + 1)?\nA: ", "response": "\n\n18"}
+{"question": "What is 3 + (9 - 9)?", "answer": 3, "prompt": "Q: What is 38974 minus 65765?\nA: -26791\n\nQ: What is 3 + (9 - 9)?\nA: ", "response": "\n\n3 + (-9) = -6"}
+{"question": "What is 1 + (5 * 1)?", "answer": 6, "prompt": "Q: What is 69945 minus 44550?\nA: 25395\n\nQ: What is 1 + (5 * 1)?\nA: ", "response": "\n\n6"}
+{"question": "What is 0 * (3 + 2)?", "answer": 0, "prompt": "Q: What is 59193 minus 98623?\nA: -39430\n\nQ: What is 0 * (3 + 2)?\nA: ", "response": "\n\n6"}
+{"question": "What is 7 * (3 + 0)?", "answer": 21, "prompt": "Q: What is 65012 minus 39778?\nA: 25234\n\nQ: What is 7 * (3 + 0)?\nA: ", "response": "\n\n7 * 3 + 7 = 25"}
+{"question": "What is 8 + (6 - 9)?", "answer": 5, "prompt": "Q: What is 19095 minus 55832?\nA: -36737\n\nQ: What is 8 + (6 - 9)?\nA: ", "response": "\n\n3"}
+{"question": "What is 1 * (3 - 1)?", "answer": 2, "prompt": "Q: What is 54866 minus 36814?\nA: 18052\n\nQ: What is 1 * (3 - 1)?\nA: ", "response": "\n\n2"}
+{"question": "What is 5 + (6 * 2)?", "answer": 17, "prompt": "Q: What is 26253 minus 95083?\nA: -68830\n\nQ: What is 5 + (6 * 2)?\nA: ", "response": "\n\n13"}
+{"question": "What is 7 + (0 * 9)?", "answer": 7, "prompt": "Q: What is 96453 minus 37753?\nA: 58700\n\nQ: What is 7 + (0 * 9)?\nA: ", "response": "\n\n7 + (0 * 9) is"}
+{"question": "What is 6 - (3 * 4)?", "answer": -6, "prompt": "Q: What is 69945 minus 44550?\nA: 25395\n\nQ: What is 6 - (3 * 4)?\nA: ", "response": "\n\n6 - (3 * 4) ="}
+{"question": "What is 7 * (9 * 2)?", "answer": 126, "prompt": "Q: What is 62175 minus 53883?\nA: 8292\n\nQ: What is 7 * (9 * 2)?\nA: ", "response": "\n\nThere is no single answer to this question"}
+{"question": "What is 3 + (0 - 2)?", "answer": 1, "prompt": "Q: What is 33684 minus 60138?\nA: -26454\n\nQ: What is 3 + (0 - 2)?\nA: ", "response": "\n\n3"}
+{"question": "What is 8 * (4 - 1)?", "answer": 24, "prompt": "Q: What is 3185 minus 52178?\nA: -48993\n\nQ: What is 8 * (4 - 1)?\nA: ", "response": "\n\n8 * (4 - 1) ="}
+{"question": "What is 2 * (0 - 7)?", "answer": -14, "prompt": "Q: What is 63139 minus 49148?\nA: 13991\n\nQ: What is 2 * (0 - 7)?\nA: ", "response": "\n\n2 * (-7) = -14"}
+{"question": "What is 9 * (8 - 4)?", "answer": 36, "prompt": "Q: What is 21557 minus 29917?\nA: -8360\n\nQ: What is 9 * (8 - 4)?\nA: ", "response": "\n\n9 * (8 - 4) ="}
+{"question": "What is 6 * (4 * 2)?", "answer": 48, "prompt": "Q: What is 22672 minus 70323?\nA: -47651\n\nQ: What is 6 * (4 * 2)?\nA: ", "response": "\n\n48"}
+{"question": "What is 0 - (7 * 1)?", "answer": -7, "prompt": "Q: What is 73988 minus 49226?\nA: 24762\n\nQ: What is 0 - (7 * 1)?\nA: ", "response": "\n\n0 - (7 * 1) ="}
+{"question": "What is 0 + (8 + 4)?", "answer": 12, "prompt": "Q: What is 59062 minus 93079?\nA: -34017\n\nQ: What is 0 + (8 + 4)?\nA: ", "response": "\n\n12"}
+{"question": "What is 7 - (5 * 9)?", "answer": -38, "prompt": "Q: What is 76352 minus 67248?\nA: 9104\n\nQ: What is 7 - (5 * 9)?\nA: ", "response": "\n\n7 - 45 = -38"}
+{"question": "What is 5 + (9 * 9)?", "answer": 86, "prompt": "Q: What is 41568 minus 51677?\nA: -10109\n\nQ: What is 5 + (9 * 9)?\nA: ", "response": "\n\n5 + (9 * 9) ="}
+{"question": "What is 4 * (6 + 6)?", "answer": 48, "prompt": "Q: What is 4646 minus 9234?\nA: -4588\n\nQ: What is 4 * (6 + 6)?\nA: ", "response": "\n\n24"}
+{"question": "What is 0 * (9 - 3)?", "answer": 0, "prompt": "Q: What is 56917 minus 79581?\nA: -22664\n\nQ: What is 0 * (9 - 3)?\nA: ", "response": "\n\n3"}
+{"question": "What is 2 * (3 - 3)?", "answer": 0, "prompt": "Q: What is 94975 minus 57435?\nA: 37540\n\nQ: What is 2 * (3 - 3)?\nA: ", "response": "\n\n6"}
+{"question": "What is 6 + (9 - 6)?", "answer": 9, "prompt": "Q: What is 28320 minus 61044?\nA: -32724\n\nQ: What is 6 + (9 - 6)?\nA: ", "response": "\n\n3"}
+{"question": "What is 9 + (6 - 0)?", "answer": 15, "prompt": "Q: What is 53752 minus 53254?\nA: 498\n\nQ: What is 9 + (6 - 0)?\nA: ", "response": "\n\n9 + (6 - 0) ="}
+{"question": "What is 1 - (4 * 2)?", "answer": -7, "prompt": "Q: What is 38509 minus 97751?\nA: -59242\n\nQ: What is 1 - (4 * 2)?\nA: ", "response": "\n\n1 - (4 * 2) ="}
+{"question": "What is 7 + (8 + 9)?", "answer": 24, "prompt": "Q: What is 77920 minus 76374?\nA: 1546\n\nQ: What is 7 + (8 + 9)?\nA: ", "response": "\n\n24"}
+{"question": "What is 7 - (5 + 4)?", "answer": -2, "prompt": "Q: What is 39431 minus 19044?\nA: 20387\n\nQ: What is 7 - (5 + 4)?\nA: ", "response": "\n\n2"}
+{"question": "What is 6 * (3 + 8)?", "answer": 66, "prompt": "Q: What is 95657 minus 68106?\nA: 27551\n\nQ: What is 6 * (3 + 8)?\nA: ", "response": " 36"}
+{"question": "What is 2 * (0 - 6)?", "answer": -12, "prompt": "Q: What is 20158 minus 54265?\nA: -34107\n\nQ: What is 2 * (0 - 6)?\nA: ", "response": "\n\n2 * (0 - 6) ="}
+{"question": "What is 5 + (0 * 3)?", "answer": 5, "prompt": "Q: What is 54372 minus 37970?\nA: 16402\n\nQ: What is 5 + (0 * 3)?\nA: ", "response": "\n\n5 + (0 * 3) ="}
+{"question": "What is 0 + (8 + 9)?", "answer": 17, "prompt": "Q: What is 84475 minus 4543?\nA: 79932\n\nQ: What is 0 + (8 + 9)?\nA: ", "response": "\n\n17"}
+{"question": "What is 1 - (9 - 3)?", "answer": -5, "prompt": "Q: What is 86592 minus 27273?\nA: 59319\n\nQ: What is 1 - (9 - 3)?\nA: ", "response": "\n\n1 - (9 - 3) ="}
+{"question": "What is 2 - (1 * 7)?", "answer": -5, "prompt": "Q: What is 65741 minus 41712?\nA: 24029\n\nQ: What is 2 - (1 * 7)?\nA: ", "response": "\n\n-6"}
+{"question": "What is 1 - (0 + 4)?", "answer": -3, "prompt": "Q: What is 28274 minus 3348?\nA: 24926\n\nQ: What is 1 - (0 + 4)?\nA: ", "response": "\n\n1 - 4 = -3"}
+{"question": "What is 4 * (2 * 8)?", "answer": 64, "prompt": "Q: What is 86302 minus 7432?\nA: 78870\n\nQ: What is 4 * (2 * 8)?\nA: ", "response": "\n\n64"}
+{"question": "What is 5 - (1 + 2)?", "answer": 2, "prompt": "Q: What is 80960 minus 64676?\nA: 16284\n\nQ: What is 5 - (1 + 2)?\nA: ", "response": "\n\n3"}
+{"question": "What is 0 * (0 - 3)?", "answer": 0, "prompt": "Q: What is 91573 minus 47730?\nA: 43843\n\nQ: What is 0 * (0 - 3)?\nA: ", "response": "\n\nThere is no answer to this question"}
+{"question": "What is 8 * (5 + 5)?", "answer": 80, "prompt": "Q: What is 74188 minus 55319?\nA: 18869\n\nQ: What is 8 * (5 + 5)?\nA: ", "response": "\n\n40"}
+{"question": "What is 9 * (7 - 7)?", "answer": 0, "prompt": "Q: What is 83350 minus 42858?\nA: 40492\n\nQ: What is 9 * (7 - 7)?\nA: ", "response": "\n\n9 * (7 - 7) ="}
+{"question": "What is 5 + (8 - 2)?", "answer": 11, "prompt": "Q: What is 47469 minus 94694?\nA: -47225\n\nQ: What is 5 + (8 - 2)?\nA: ", "response": "\n\n13"}
+{"question": "What is 9 + (4 + 0)?", "answer": 13, "prompt": "Q: What is 1788 minus 42310?\nA: -40522\n\nQ: What is 9 + (4 + 0)?\nA: ", "response": "\n\n13"}
+{"question": "What is 4 - (5 * 5)?", "answer": -21, "prompt": "Q: What is 35765 minus 3162?\nA: 32603\n\nQ: What is 4 - (5 * 5)?\nA: ", "response": "\n\n4 - (5 * 5) ="}
+{"question": "What is 1 + (5 + 9)?", "answer": 15, "prompt": "Q: What is 67752 minus 18150?\nA: 49602\n\nQ: What is 1 + (5 + 9)?\nA: ", "response": "\n\n15"}
+{"question": "What is 4 * (2 - 2)?", "answer": 0, "prompt": "Q: What is 22672 minus 70323?\nA: -47651\n\nQ: What is 4 * (2 - 2)?\nA: ", "response": "\n\n4 * (2 - 2) ="}
+{"question": "What is 5 + (6 - 8)?", "answer": 3, "prompt": "Q: What is 5497 minus 74020?\nA: -68523\n\nQ: What is 5 + (6 - 8)?\nA: ", "response": "\n\n3"}
+{"question": "What is 1 + (7 - 3)?", "answer": 5, "prompt": "Q: What is 25043 minus 41473?\nA: -16430\n\nQ: What is 1 + (7 - 3)?\nA: ", "response": "\n\n5"}
+{"question": "What is 2 - (8 - 1)?", "answer": -5, "prompt": "Q: What is 41568 minus 51677?\nA: -10109\n\nQ: What is 2 - (8 - 1)?\nA: ", "response": "\n\n2 - (8 - 1) is"}
+{"question": "What is 5 + (4 + 6)?", "answer": 15, "prompt": "Q: What is 78742 minus 51760?\nA: 26982\n\nQ: What is 5 + (4 + 6)?\nA: ", "response": "\n\n15"}
+{"question": "What is 8 - (7 - 7)?", "answer": 8, "prompt": "Q: What is 5397 minus 15224?\nA: -9827\n\nQ: What is 8 - (7 - 7)?\nA: ", "response": "\n\n0"}
+{"question": "What is 1 * (7 - 1)?", "answer": 6, "prompt": "Q: What is 79623 minus 25341?\nA: 54282\n\nQ: What is 1 * (7 - 1)?\nA: ", "response": "\n\n7"}
+{"question": "What is 6 - (0 * 4)?", "answer": 6, "prompt": "Q: What is 5785 minus 54242?\nA: -48457\n\nQ: What is 6 - (0 * 4)?\nA: ", "response": "\n\n2"}
+{"question": "What is 2 - (2 * 9)?", "answer": -16, "prompt": "Q: What is 590 minus 16994?\nA: -16404\n\nQ: What is 2 - (2 * 9)?\nA: ", "response": "\n\n2 - (2 * 9)\n"}
+{"question": "What is 1 + (1 * 1)?", "answer": 2, "prompt": "Q: What is 35632 minus 33120?\nA: 2512\n\nQ: What is 1 + (1 * 1)?\nA: ", "response": "\n2"}
+{"question": "What is 3 + (0 + 6)?", "answer": 9, "prompt": "Q: What is 80763 minus 83513?\nA: -2750\n\nQ: What is 3 + (0 + 6)?\nA: ", "response": "\n\n9"}
+{"question": "What is 6 - (8 - 8)?", "answer": 6, "prompt": "Q: What is 37735 minus 26124?\nA: 11611\n\nQ: What is 6 - (8 - 8)?\nA: ", "response": "\n\n6 - (8 - 8) ="}
+{"question": "What is 7 - (9 + 3)?", "answer": -5, "prompt": "Q: What is 60146 minus 6164?\nA: 53982\n\nQ: What is 7 - (9 + 3)?\nA: ", "response": "\n\n-2"}
+{"question": "What is 5 * (3 + 4)?", "answer": 35, "prompt": "Q: What is 24509 minus 59512?\nA: -35003\n\nQ: What is 5 * (3 + 4)?\nA: ", "response": "\n\n5 * (3 + 4) ="}
+{"question": "What is 6 + (3 + 5)?", "answer": 14, "prompt": "Q: What is 1191 minus 76668?\nA: -75477\n\nQ: What is 6 + (3 + 5)?\nA: ", "response": "\n\n13"}
+{"question": "What is 0 * (8 + 7)?", "answer": 0, "prompt": "Q: What is 53560 minus 50157?\nA: 3403\n\nQ: What is 0 * (8 + 7)?\nA: ", "response": "\n\n0 * (8 + 7) ="}
+{"question": "What is 1 - (7 + 6)?", "answer": -12, "prompt": "Q: What is 53203 minus 83671?\nA: -30468\n\nQ: What is 1 - (7 + 6)?\nA: ", "response": "\n\n1 - (7 + 6) ="}
+{"question": "What is 0 + (3 + 9)?", "answer": 12, "prompt": "Q: What is 84967 minus 17766?\nA: 67201\n\nQ: What is 0 + (3 + 9)?\nA: ", "response": "\n\n12"}
+{"question": "What is 3 - (7 * 6)?", "answer": -39, "prompt": "Q: What is 96889 minus 88757?\nA: 8132\n\nQ: What is 3 - (7 * 6)?\nA: ", "response": "\n\n3 - (7 * 6) ="}
+{"question": "What is 2 - (1 + 9)?", "answer": -8, "prompt": "Q: What is 9207 minus 71942?\nA: -62735\n\nQ: What is 2 - (1 + 9)?\nA: ", "response": "\n\n-8"}
+{"question": "What is 9 * (6 - 6)?", "answer": 0, "prompt": "Q: What is 15810 minus 58456?\nA: -42646\n\nQ: What is 9 * (6 - 6)?\nA: ", "response": "\n\n9 * (6 - 6) ="}
+{"question": "What is 5 * (7 * 7)?", "answer": 245, "prompt": "Q: What is 11581 minus 30159?\nA: -18578\n\nQ: What is 5 * (7 * 7)?\nA: ", "response": "\n\n5 * (7 * 7) ="}
+{"question": "What is 3 + (8 + 9)?", "answer": 20, "prompt": "Q: What is 88556 minus 52335?\nA: 36221\n\nQ: What is 3 + (8 + 9)?\nA: ", "response": "\n\n22"}
+{"question": "What is 5 + (5 * 5)?", "answer": 30, "prompt": "Q: What is 81447 minus 54421?\nA: 27026\n\nQ: What is 5 + (5 * 5)?\nA: ", "response": "\n\n25"}
+{"question": "What is 2 + (4 - 9)?", "answer": -3, "prompt": "Q: What is 47615 minus 46493?\nA: 1122\n\nQ: What is 2 + (4 - 9)?\nA: ", "response": "\n\n-7"}
+{"question": "What is 9 + (4 + 7)?", "answer": 20, "prompt": "Q: What is 28387 minus 24248?\nA: 4139\n\nQ: What is 9 + (4 + 7)?\nA: ", "response": "\n\n18"}
+{"question": "What is 8 + (0 + 1)?", "answer": 9, "prompt": "Q: What is 674 minus 31678?\nA: -31004\n\nQ: What is 8 + (0 + 1)?\nA: ", "response": "\n\n9"}
+{"question": "What is 0 - (4 - 0)?", "answer": -4, "prompt": "Q: What is 82288 minus 91762?\nA: -9474\n\nQ: What is 0 - (4 - 0)?\nA: ", "response": "\n\n-4"}
