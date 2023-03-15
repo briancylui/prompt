@@ -1,0 +1,100 @@
+{"question": "What is 49 minus 97?", "answer": -48, "prompt": "Q: What is 16 minus 49?\nA: -33\n\nQ: What is 58 minus 39?\nA: 19\n\nQ: What is 49 minus 97?\nA: ", "response": " \n\n-59"}
+{"question": "What is 53 minus 5?", "answer": 48, "prompt": "Q: What is 13 minus 60?\nA: -47\n\nQ: What is 7 minus 44?\nA: -37\n\nQ: What is 53 minus 5?\nA: ", "response": "\n-53"}
+{"question": "What is 33 minus 65?", "answer": -32, "prompt": "Q: What is 72 minus 52?\nA: 20\n\nQ: What is 88 minus 1?\nA: 87\n\nQ: What is 33 minus 65?\nA: ", "response": "\n\nThe answer is 67"}
+{"question": "What is 62 minus 51?", "answer": 11, "prompt": "Q: What is 91 minus 58?\nA: 33\n\nQ: What is 7 minus 95?\nA: -88\n\nQ: What is 62 minus 51?\nA: ", "response": "\n\n-112"}
+{"question": "What is 38 minus 61?", "answer": -23, "prompt": "Q: What is 59 minus 49?\nA: 10\n\nQ: What is 10 minus 17?\nA: -7\n\nQ: What is 38 minus 61?\nA: ", "response": "\n\n-49"}
+{"question": "What is 45 minus 74?", "answer": -29, "prompt": "Q: What is 77 minus 45?\nA: 32\n\nQ: What is 31 minus 73?\nA: -42\n\nQ: What is 45 minus 74?\nA: ", "response": "\n\n-55"}
+{"question": "What is 27 minus 64?", "answer": -37, "prompt": "Q: What is 81 minus 34?\nA: 47\n\nQ: What is 90 minus 16?\nA: 74\n\nQ: What is 27 minus 64?\nA: ", "response": "\n\n129"}
+{"question": "What is 17 minus 36?", "answer": -19, "prompt": "Q: What is 37 minus 70?\nA: -33\n\nQ: What is 97 minus 50?\nA: 47\n\nQ: What is 17 minus 36?\nA: ", "response": "\n\n-16"}
+{"question": "What is 17 minus 96?", "answer": -79, "prompt": "Q: What is 45 minus 36?\nA: 9\n\nQ: What is 19 minus 21?\nA: -2\n\nQ: What is 17 minus 96?\nA: ", "response": "\n-4"}
+{"question": "What is 12 minus 79?", "answer": -67, "prompt": "Q: What is 98 minus 5?\nA: 93\n\nQ: What is 20 minus 22?\nA: -2\n\nQ: What is 12 minus 79?\nA: ", "response": "\n\n-12"}
+{"question": "What is 32 minus 68?", "answer": -36, "prompt": "Q: What is 84 minus 87?\nA: -3\n\nQ: What is 79 minus 59?\nA: 20\n\nQ: What is 32 minus 68?\nA: ", "response": "\n\n-1"}
+{"question": "What is 90 minus 77?", "answer": 13, "prompt": "Q: What is 90 minus 90?\nA: 0\n\nQ: What is 87 minus 42?\nA: 45\n\nQ: What is 90 minus 77?\nA: ", "response": "\n\n0"}
+{"question": "What is 18 minus 39?", "answer": -21, "prompt": "Q: What is 26 minus 52?\nA: -26\n\nQ: What is 55 minus 38?\nA: 17\n\nQ: What is 18 minus 39?\nA: ", "response": "\n\n-18"}
+{"question": "What is 12 minus 93?", "answer": -81, "prompt": "Q: What is 40 minus 50?\nA: -10\n\nQ: What is 98 minus 71?\nA: 27\n\nQ: What is 12 minus 93?\nA: ", "response": "\n\n-4"}
+{"question": "What is 9 minus 87?", "answer": -78, "prompt": "Q: What is 1 minus 43?\nA: -42\n\nQ: What is 16 minus 76?\nA: -60\n\nQ: What is 9 minus 87?\nA: ", "response": "\n-137"}
+{"question": "What is 42 minus 60?", "answer": -18, "prompt": "Q: What is 59 minus 40?\nA: 19\n\nQ: What is 86 minus 91?\nA: -5\n\nQ: What is 42 minus 60?\nA: ", "response": "\n\n-5"}
+{"question": "What is 71 minus 12?", "answer": 59, "prompt": "Q: What is 39 minus 49?\nA: -10\n\nQ: What is 36 minus 78?\nA: -42\n\nQ: What is 71 minus 12?\nA: ", "response": "\n\n-7"}
+{"question": "What is 45 minus 55?", "answer": -10, "prompt": "Q: What is 16 minus 50?\nA: -34\n\nQ: What is 13 minus 35?\nA: -22\n\nQ: What is 45 minus 55?\nA: ", "response": "\n\n-45"}
+{"question": "What is 40 minus 78?", "answer": -38, "prompt": "Q: What is 81 minus 34?\nA: 47\n\nQ: What is 5 minus 6?\nA: -1\n\nQ: What is 40 minus 78?\nA: ", "response": "\n\n-1"}
+{"question": "What is 81 minus 26?", "answer": 55, "prompt": "Q: What is 2 minus 46?\nA: -44\n\nQ: What is 18 minus 58?\nA: -40\n\nQ: What is 81 minus 26?\nA: ", "response": " -67"}
+{"question": "What is 70 minus 61?", "answer": 9, "prompt": "Q: What is 0 minus 4?\nA: -4\n\nQ: What is 5 minus 97?\nA: -92\n\nQ: What is 70 minus 61?\nA: ", "response": "\n\n-71"}
+{"question": "What is 56 minus 66?", "answer": -10, "prompt": "Q: What is 32 minus 50?\nA: -18\n\nQ: What is 63 minus 2?\nA: 61\n\nQ: What is 56 minus 66?\nA: ", "response": "\n-5"}
+{"question": "What is 33 minus 7?", "answer": 26, "prompt": "Q: What is 56 minus 40?\nA: 16\n\nQ: What is 76 minus 50?\nA: 26\n\nQ: What is 33 minus 7?\nA: ", "response": "\n\n36"}
+{"question": "What is 70 minus 1?", "answer": 69, "prompt": "Q: What is 33 minus 14?\nA: 19\n\nQ: What is 77 minus 42?\nA: 35\n\nQ: What is 70 minus 1?\nA: ", "response": "\n\nThis is not a number"}
+{"question": "What is 11 minus 92?", "answer": -81, "prompt": "Q: What is 84 minus 86?\nA: -2\n\nQ: What is 98 minus 53?\nA: 45\n\nQ: What is 11 minus 92?\nA: ", "response": "\n\n-1"}
+{"question": "What is 51 minus 90?", "answer": -39, "prompt": "Q: What is 74 minus 14?\nA: 60\n\nQ: What is 36 minus 93?\nA: -57\n\nQ: What is 51 minus 90?\nA: ", "response": "\n\n- Geometric Confederation : 51 - 90"}
+{"question": "What is 85 minus 80?", "answer": 5, "prompt": "Q: What is 77 minus 75?\nA: 2\n\nQ: What is 92 minus 85?\nA: 7\n\nQ: What is 85 minus 80?\nA: ", "response": "\n\n5"}
+{"question": "What is 0 minus 78?", "answer": -78, "prompt": "Q: What is 61 minus 80?\nA: -19\n\nQ: What is 45 minus 20?\nA: 25\n\nQ: What is 0 minus 78?\nA: ", "response": "\n\n-1"}
+{"question": "What is 63 minus 42?", "answer": 21, "prompt": "Q: What is 46 minus 69?\nA: -23\n\nQ: What is 95 minus 99?\nA: -4\n\nQ: What is 63 minus 42?\nA: ", "response": "\n\n-59"}
+{"question": "What is 31 minus 93?", "answer": -62, "prompt": "Q: What is 95 minus 81?\nA: 14\n\nQ: What is 11 minus 90?\nA: -79\n\nQ: What is 31 minus 93?\nA: ", "response": "\n\n-Not-------\n\n31\n-"}
+{"question": "What is 41 minus 90?", "answer": -49, "prompt": "Q: What is 37 minus 95?\nA: -58\n\nQ: What is 61 minus 79?\nA: -18\n\nQ: What is 41 minus 90?\nA: ", "response": " -53"}
+{"question": "What is 8 minus 24?", "answer": -16, "prompt": "Q: What is 24 minus 40?\nA: -16\n\nQ: What is 70 minus 17?\nA: 53\n\nQ: What is 8 minus 24?\nA: ", "response": "\n\n-8"}
+{"question": "What is 72 minus 28?", "answer": 44, "prompt": "Q: What is 15 minus 65?\nA: -50\n\nQ: What is 73 minus 36?\nA: 37\n\nQ: What is 72 minus 28?\nA: ", "response": "\n\n-68"}
+{"question": "What is 30 minus 18?", "answer": 12, "prompt": "Q: What is 77 minus 88?\nA: -11\n\nQ: What is 42 minus 20?\nA: 22\n\nQ: What is 30 minus 18?\nA: ", "response": "\n\n-6"}
+{"question": "What is 69 minus 57?", "answer": 12, "prompt": "Q: What is 30 minus 95?\nA: -65\n\nQ: What is 65 minus 90?\nA: -25\n\nQ: What is 69 minus 57?\nA: ", "response": "\n\n-5"}
+{"question": "What is 11 minus 10?", "answer": 1, "prompt": "Q: What is 48 minus 97?\nA: -49\n\nQ: What is 42 minus 94?\nA: -52\n\nQ: What is 11 minus 10?\nA: ", "response": "\n\n-1"}
+{"question": "What is 40 minus 65?", "answer": -25, "prompt": "Q: What is 46 minus 20?\nA: 26\n\nQ: What is 43 minus 1?\nA: 42\n\nQ: What is 40 minus 65?\nA: ", "response": "\n\n36"}
+{"question": "What is 62 minus 13?", "answer": 49, "prompt": "Q: What is 46 minus 39?\nA: 7\n\nQ: What is 33 minus 45?\nA: -12\n\nQ: What is 62 minus 13?\nA: ", "response": "\n\n-46"}
+{"question": "What is 38 minus 70?", "answer": -32, "prompt": "Q: What is 42 minus 32?\nA: 10\n\nQ: What is 87 minus 93?\nA: -6\n\nQ: What is 38 minus 70?\nA: ", "response": "\n\n-4"}
+{"question": "What is 37 minus 90?", "answer": -53, "prompt": "Q: What is 5 minus 78?\nA: -73\n\nQ: What is 26 minus 56?\nA: -30\n\nQ: What is 37 minus 90?\nA: ", "response": " -38"}
+{"question": "What is 15 minus 70?", "answer": -55, "prompt": "Q: What is 14 minus 21?\nA: -7\n\nQ: What is 72 minus 90?\nA: -18\n\nQ: What is 15 minus 70?\nA: ", "response": "\n\n-11"}
+{"question": "What is 42 minus 69?", "answer": -27, "prompt": "Q: What is 55 minus 72?\nA: -17\n\nQ: What is 23 minus 43?\nA: -20\n\nQ: What is 42 minus 69?\nA: ", "response": "\n\n-43"}
+{"question": "What is 26 minus 77?", "answer": -51, "prompt": "Q: What is 9 minus 16?\nA: -7\n\nQ: What is 80 minus 36?\nA: 44\n\nQ: What is 26 minus 77?\nA: ", "response": "\n\n-6"}
+{"question": "What is 70 minus 75?", "answer": -5, "prompt": "Q: What is 3 minus 90?\nA: -87\n\nQ: What is 33 minus 74?\nA: -41\n\nQ: What is 70 minus 75?\nA: ", "response": "\n\n-70"}
+{"question": "What is 36 minus 56?", "answer": -20, "prompt": "Q: What is 90 minus 94?\nA: -4\n\nQ: What is 66 minus 83?\nA: -17\n\nQ: What is 36 minus 56?\nA: ", "response": "\n\n-2"}
+{"question": "What is 11 minus 76?", "answer": -65, "prompt": "Q: What is 20 minus 74?\nA: -54\n\nQ: What is 44 minus 70?\nA: -26\n\nQ: What is 11 minus 76?\nA: ", "response": "\n\n-11"}
+{"question": "What is 49 minus 40?", "answer": 9, "prompt": "Q: What is 79 minus 94?\nA: -15\n\nQ: What is 77 minus 63?\nA: 14\n\nQ: What is 49 minus 40?\nA: ", "response": "\n-49"}
+{"question": "What is 73 minus 30?", "answer": 43, "prompt": "Q: What is 81 minus 50?\nA: 31\n\nQ: What is 50 minus 25?\nA: 25\n\nQ: What is 73 minus 30?\nA: ", "response": "\n30"}
+{"question": "What is 37 minus 23?", "answer": 14, "prompt": "Q: What is 30 minus 78?\nA: -48\n\nQ: What is 5 minus 23?\nA: -18\n\nQ: What is 37 minus 23?\nA: ", "response": " -53"}
+{"question": "What is 24 minus 23?", "answer": 1, "prompt": "Q: What is 60 minus 43?\nA: 17\n\nQ: What is 6 minus 67?\nA: -61\n\nQ: What is 24 minus 23?\nA: ", "response": "\n\n-25"}
+{"question": "What is 4 minus 78?", "answer": -74, "prompt": "Q: What is 94 minus 55?\nA: 39\n\nQ: What is 43 minus 79?\nA: -36\n\nQ: What is 4 minus 78?\nA: ", "response": "\n\n-6"}
+{"question": "What is 84 minus 33?", "answer": 51, "prompt": "Q: What is 25 minus 77?\nA: -52\n\nQ: What is 37 minus 95?\nA: -58\n\nQ: What is 84 minus 33?\nA: ", "response": "\n-97"}
+{"question": "What is 60 minus 8?", "answer": 52, "prompt": "Q: What is 80 minus 99?\nA: -19\n\nQ: What is 11 minus 23?\nA: -12\n\nQ: What is 60 minus 8?\nA: ", "response": "\n\n-1"}
+{"question": "What is 11 minus 86?", "answer": -75, "prompt": "Q: What is 55 minus 72?\nA: -17\n\nQ: What is 51 minus 71?\nA: -20\n\nQ: What is 11 minus 86?\nA: ", "response": "\n\n-13"}
+{"question": "What is 96 minus 16?", "answer": 80, "prompt": "Q: What is 29 minus 5?\nA: 24\n\nQ: What is 45 minus 9?\nA: 36\n\nQ: What is 96 minus 16?\nA: ", "response": "\n\nThe answer is 10"}
+{"question": "What is 19 minus 4?", "answer": 15, "prompt": "Q: What is 55 minus 31?\nA: 24\n\nQ: What is 31 minus 63?\nA: -32\n\nQ: What is 19 minus 4?\nA: ", "response": "\n\n-5"}
+{"question": "What is 10 minus 89?", "answer": -79, "prompt": "Q: What is 93 minus 2?\nA: 91\n\nQ: What is 8 minus 67?\nA: -59\n\nQ: What is 10 minus 89?\nA: ", "response": "\n\n-5"}
+{"question": "What is 69 minus 87?", "answer": -18, "prompt": "Q: What is 19 minus 98?\nA: -79\n\nQ: What is 11 minus 9?\nA: 2\n\nQ: What is 69 minus 87?\nA: ", "response": "\n\n-57"}
+{"question": "What is 50 minus 90?", "answer": -40, "prompt": "Q: What is 2 minus 50?\nA: -48\n\nQ: What is 28 minus 83?\nA: -55\n\nQ: What is 50 minus 90?\nA: ", "response": "\n\n-58"}
+{"question": "What is 67 minus 35?", "answer": 32, "prompt": "Q: What is 41 minus 65?\nA: -24\n\nQ: What is 34 minus 26?\nA: 8\n\nQ: What is 67 minus 35?\nA: ", "response": "\n\n-54"}
+{"question": "What is 66 minus 30?", "answer": 36, "prompt": "Q: What is 76 minus 9?\nA: 67\n\nQ: What is 61 minus 80?\nA: -19\n\nQ: What is 66 minus 30?\nA: ", "response": "\n\n-6"}
+{"question": "What is 27 minus 86?", "answer": -59, "prompt": "Q: What is 28 minus 17?\nA: 11\n\nQ: What is 2 minus 51?\nA: -49\n\nQ: What is 27 minus 86?\nA: ", "response": "\n\n-27"}
+{"question": "What is 75 minus 53?", "answer": 22, "prompt": "Q: What is 20 minus 90?\nA: -70\n\nQ: What is 26 minus 75?\nA: -49\n\nQ: What is 75 minus 53?\nA: ", "response": "\n-57"}
+{"question": "What is 74 minus 35?", "answer": 39, "prompt": "Q: What is 19 minus 4?\nA: 15\n\nQ: What is 79 minus 59?\nA: 20\n\nQ: What is 74 minus 35?\nA: ", "response": "\n\n5"}
+{"question": "What is 57 minus 63?", "answer": -6, "prompt": "Q: What is 5 minus 76?\nA: -71\n\nQ: What is 77 minus 79?\nA: -2\n\nQ: What is 57 minus 63?\nA: ", "response": "\n\n-57"}
+{"question": "What is 84 minus 82?", "answer": 2, "prompt": "Q: What is 14 minus 47?\nA: -33\n\nQ: What is 12 minus 22?\nA: -10\n\nQ: What is 84 minus 82?\nA: ", "response": "\n\n-2"}
+{"question": "What is 89 minus 45?", "answer": 44, "prompt": "Q: What is 4 minus 25?\nA: -21\n\nQ: What is 52 minus 49?\nA: 3\n\nQ: What is 89 minus 45?\nA: ", "response": "\n\n-49"}
+{"question": "What is 10 minus 41?", "answer": -31, "prompt": "Q: What is 88 minus 93?\nA: -5\n\nQ: What is 86 minus 51?\nA: 35\n\nQ: What is 10 minus 41?\nA: ", "response": "\n\n-1"}
+{"question": "What is 78 minus 14?", "answer": 64, "prompt": "Q: What is 73 minus 57?\nA: 16\n\nQ: What is 29 minus 99?\nA: -70\n\nQ: What is 78 minus 14?\nA: ", "response": "\n\n-38"}
+{"question": "What is 62 minus 75?", "answer": -13, "prompt": "Q: What is 53 minus 85?\nA: -32\n\nQ: What is 30 minus 32?\nA: -2\n\nQ: What is 62 minus 75?\nA: ", "response": "\n\n-62"}
+{"question": "What is 80 minus 42?", "answer": 38, "prompt": "Q: What is 29 minus 69?\nA: -40\n\nQ: What is 73 minus 27?\nA: 46\n\nQ: What is 80 minus 42?\nA: ", "response": "\n\n-86"}
+{"question": "What is 24 minus 31?", "answer": -7, "prompt": "Q: What is 16 minus 82?\nA: -66\n\nQ: What is 69 minus 91?\nA: -22\n\nQ: What is 24 minus 31?\nA: ", "response": "\n\n-24"}
+{"question": "What is 2 minus 93?", "answer": -91, "prompt": "Q: What is 54 minus 33?\nA: 21\n\nQ: What is 56 minus 13?\nA: 43\n\nQ: What is 2 minus 93?\nA: ", "response": "\n\n-2 = 43"}
+{"question": "What is 34 minus 14?", "answer": 20, "prompt": "Q: What is 42 minus 3?\nA: 39\n\nQ: What is 80 minus 84?\nA: -4\n\nQ: What is 34 minus 14?\nA: ", "response": "\n-2"}
+{"question": "What is 90 minus 28?", "answer": 62, "prompt": "Q: What is 57 minus 62?\nA: -5\n\nQ: What is 44 minus 46?\nA: -2\n\nQ: What is 90 minus 28?\nA: ", "response": "\n\n-5"}
+{"question": "What is 47 minus 21?", "answer": 26, "prompt": "Q: What is 14 minus 7?\nA: 7\n\nQ: What is 45 minus 36?\nA: 9\n\nQ: What is 47 minus 21?\nA: ", "response": "\n\n5"}
+{"question": "What is 42 minus 54?", "answer": -12, "prompt": "Q: What is 21 minus 3?\nA: 18\n\nQ: What is 30 minus 76?\nA: -46\n\nQ: What is 42 minus 54?\nA: ", "response": "\n\n-2"}
+{"question": "What is 7 minus 12?", "answer": -5, "prompt": "Q: What is 78 minus 28?\nA: 50\n\nQ: What is 49 minus 78?\nA: -29\n\nQ: What is 7 minus 12?\nA: ", "response": "\n\n-7"}
+{"question": "What is 18 minus 89?", "answer": -71, "prompt": "Q: What is 99 minus 99?\nA: 0\n\nQ: What is 79 minus 59?\nA: 20\n\nQ: What is 18 minus 89?\nA: ", "response": "\n\n-18"}
+{"question": "What is 28 minus 5?", "answer": 23, "prompt": "Q: What is 95 minus 78?\nA: 17\n\nQ: What is 18 minus 97?\nA: -79\n\nQ: What is 28 minus 5?\nA: ", "response": "\n\n36"}
+{"question": "What is 73 minus 81?", "answer": -8, "prompt": "Q: What is 28 minus 18?\nA: 10\n\nQ: What is 32 minus 50?\nA: -18\n\nQ: What is 73 minus 81?\nA: ", "response": "\n\n-73"}
+{"question": "What is 68 minus 77?", "answer": -9, "prompt": "Q: What is 75 minus 33?\nA: 42\n\nQ: What is 74 minus 93?\nA: -19\n\nQ: What is 68 minus 77?\nA: ", "response": "\n\n-62"}
+{"question": "What is 87 minus 9?", "answer": 78, "prompt": "Q: What is 72 minus 21?\nA: 51\n\nQ: What is 75 minus 33?\nA: 42\n\nQ: What is 87 minus 9?\nA: ", "response": "\n\n92"}
+{"question": "What is 3 minus 15?", "answer": -12, "prompt": "Q: What is 45 minus 9?\nA: 36\n\nQ: What is 90 minus 9?\nA: 81\n\nQ: What is 3 minus 15?\nA: ", "response": "\n\n3"}
+{"question": "What is 81 minus 24?", "answer": 57, "prompt": "Q: What is 84 minus 61?\nA: 23\n\nQ: What is 77 minus 62?\nA: 15\n\nQ: What is 81 minus 24?\nA: ", "response": "\n\n-1"}
+{"question": "What is 77 minus 73?", "answer": 4, "prompt": "Q: What is 31 minus 79?\nA: -48\n\nQ: What is 30 minus 83?\nA: -53\n\nQ: What is 77 minus 73?\nA: ", "response": "\n\n-123"}
+{"question": "What is 15 minus 50?", "answer": -35, "prompt": "Q: What is 87 minus 52?\nA: 35\n\nQ: What is 5 minus 34?\nA: -29\n\nQ: What is 15 minus 50?\nA: ", "response": "\n\n-47"}
+{"question": "What is 11 minus 47?", "answer": -36, "prompt": "Q: What is 96 minus 50?\nA: 46\n\nQ: What is 8 minus 8?\nA: 0\n\nQ: What is 11 minus 47?\nA: ", "response": "\n\n36"}
+{"question": "What is 14 minus 4?", "answer": 10, "prompt": "Q: What is 16 minus 49?\nA: -33\n\nQ: What is 86 minus 53?\nA: 33\n\nQ: What is 14 minus 4?\nA: ", "response": "\n\n-26"}
+{"question": "What is 77 minus 2?", "answer": 75, "prompt": "Q: What is 3 minus 66?\nA: -63\n\nQ: What is 91 minus 31?\nA: 60\n\nQ: What is 77 minus 2?\nA: ", "response": "\n\n-6"}
+{"question": "What is 24 minus 23?", "answer": 1, "prompt": "Q: What is 9 minus 33?\nA: -24\n\nQ: What is 91 minus 30?\nA: 61\n\nQ: What is 24 minus 23?\nA: ", "response": "\n\n-24"}
+{"question": "What is 91 minus 15?", "answer": 76, "prompt": "Q: What is 79 minus 59?\nA: 20\n\nQ: What is 64 minus 49?\nA: 15\n\nQ: What is 91 minus 15?\nA: ", "response": "\n\n7"}
+{"question": "What is 61 minus 26?", "answer": 35, "prompt": "Q: What is 3 minus 40?\nA: -37\n\nQ: What is 49 minus 58?\nA: -9\n\nQ: What is 61 minus 26?\nA: ", "response": "\n\n-61"}
+{"question": "What is 93 minus 7?", "answer": 86, "prompt": "Q: What is 12 minus 87?\nA: -75\n\nQ: What is 90 minus 24?\nA: 66\n\nQ: What is 93 minus 7?\nA: ", "response": "\n\n-67"}
+{"question": "What is 86 minus 2?", "answer": 84, "prompt": "Q: What is 87 minus 11?\nA: 76\n\nQ: What is 91 minus 30?\nA: 61\n\nQ: What is 86 minus 2?\nA: ", "response": "\n\n 84"}
+{"question": "What is 69 minus 54?", "answer": 15, "prompt": "Q: What is 40 minus 66?\nA: -26\n\nQ: What is 26 minus 21?\nA: 5\n\nQ: What is 69 minus 54?\nA: ", "response": "\n\n-53"}
+{"question": "What is 79 minus 12?", "answer": 67, "prompt": "Q: What is 45 minus 9?\nA: 36\n\nQ: What is 69 minus 3?\nA: 66\n\nQ: What is 79 minus 12?\nA: ", "response": "\n\n72"}
+{"question": "What is 33 minus 8?", "answer": 25, "prompt": "Q: What is 48 minus 90?\nA: -42\n\nQ: What is 16 minus 3?\nA: 13\n\nQ: What is 33 minus 8?\nA: ", "response": "\n-36"}
+{"question": "What is 28 minus 9?", "answer": 19, "prompt": "Q: What is 78 minus 96?\nA: -18\n\nQ: What is 84 minus 28?\nA: 56\n\nQ: What is 28 minus 9?\nA: ", "response": "\n\n-36"}
+{"question": "What is 82 minus 38?", "answer": 44, "prompt": "Q: What is 0 minus 4?\nA: -4\n\nQ: What is 71 minus 25?\nA: 46\n\nQ: What is 82 minus 38?\nA: ", "response": "\n\n-38"}
