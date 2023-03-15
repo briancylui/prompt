@@ -184,7 +184,7 @@ if __name__ == '__main__':
                 continue
 
             n_shots = 1
-            first_n = 2
+            first_n = 100
             path = f'{_RESULT_DIRECTORY}/{model_name}_{tag}_{n_shots}_{first_n}_{helper_tag}.jsonl'
             if os.path.exists(path):
                 continue
