@@ -8,8 +8,8 @@ import json
 from typing import Optional
 
 
-_DEFAULT_TRAIN_PATH = 'data/train.jsonl'
-_DEFAULT_TEST_PATH = 'data/test.jsonl'
+_DEFAULT_TRAIN_PATH = 'data/gsm8k/train.jsonl'
+_DEFAULT_TEST_PATH = 'data/gsm8k/test.jsonl'
 
 
 class Dataset:

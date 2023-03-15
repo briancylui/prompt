@@ -25,7 +25,7 @@ _RESPONSE_KEY = 'response'
 
 _DEFAULT_MODEL_NAME = _OPENAI_MODEL_NAMES[0]
 
-_RESULT_DIRECTORY = 'results'
+_RESULT_DIRECTORY = 'results/gsm8k'
 
 
 # An example of how to use the request API.
