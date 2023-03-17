@@ -31,7 +31,7 @@ _RESPONSE_KEY = 'response'
 
 _DEFAULT_MODEL_NAME = _OPENAI_MODEL_NAMES[0]
 
-_RESULT_DIRECTORY = 'results/arithmetics'
+_RESULT_DIRECTORY = 'results/arithmetics/prompt_across_tags'
 
 # Number of testing and validation question-answer pairs.
 _N_TEST = 100
@@ -71,11 +71,10 @@ def sample_helper_tag(
     helper_tag: str,
     n_shots: int = 0,
 ) -> Iterator[Tuple[str, str]]:
-    del question  # Unused.
     val_data = datasets[helper_tag].data.iloc[_N_TEST:]
     indices = random.sample(range(len(val_data)), n_shots)
     for _, row in val_data.iloc[indices].iterrows():
-        yield row[_QUESTION_KEY], row[_ANSWER_KEY]
+        yield question, row[_QUESTION_KEY], row[_ANSWER_KEY]
 
 
 def process_example(example: Sequence[Any]) -> str:
@@ -111,7 +110,7 @@ def get_response(
     request_func: _RequestFunc,
 ) -> Tuple[str, str]:
     prompt = get_prompt(question, helper_tag, n_shots)
-    request = Request(model=model, prompt=prompt, max_tokens=10, stop_sequences=['.'])
+    request = Request(model=model, prompt=prompt, max_tokens=25)
     request_result: RequestResult = request_func(request=request)
     return prompt, request_result.completions[0].text
 
@@ -179,17 +178,20 @@ if __name__ == '__main__':
     model_name = _MODEL_NAMES[model_index]
     openai_model_name = _OPENAI_MODEL_NAMES[model_index]
     model = openai_model_name
+
+    first_n = 100
+
     for tag in ARITHMETIC_DATASET_TAGS:
         for helper_tag in ARITHMETIC_DATASET_TAGS:
             if helper_tag == tag:
                 continue
 
             n_shots = 1
-            first_n = 100
-            path = f'{_RESULT_DIRECTORY}/{model_name}_{tag}_{n_shots}_{first_n}_{helper_tag}.jsonl'
+            path = f'{_RESULT_DIRECTORY}/{model_name}_{tag}_{n_shots}_{first_n}_{helper_tag}_prompt.jsonl'
             if os.path.exists(path):
                 continue
 
+            print(f'*** Processing: {path}')
             save_model_results(
                 path=path,
                 model=model,
