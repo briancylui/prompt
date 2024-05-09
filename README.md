@@ -2,3 +2,5 @@
 
 Contributor(s): Brian Lui
 OpenAI API provider: Stanford Center for Research on Foundation Models (CRFM)
+
+Paper: [https://github.com/briancylui/prompt/blob/main/artifacts/paper.pdf](https://github.com/briancylui/prompt/blob/main/artifacts/paper.pdf)
